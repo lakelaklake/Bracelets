@@ -549,7 +549,7 @@ footer a:hover {
 }
 
 .hero {
-    background-image: url('https://www.bing.com/images/blob?bcid=RMBqrkTwMVsHim0FR8mJIyN8wPfb.....yM');
+    background-image: url('https://lh3.googleusercontent.com/pw/AP1GczMGFXlQzJGstio-89WbogznI-hmDHByisALCQSCyOIUf_7lkmAcxjMtwDFXdFCJcVYMJKU1frk_joQ9UoV3RCALs3heTya6IRIAgO4zLwYeIqDAuog=w2400');
     background-size: cover;
     background-position: center;
     padding: 100px 0;
@@ -584,7 +584,7 @@ html {
 
 
 /* Additional styles if needed */
-.product, .testimonial, .faq-item, .contact-info {
+ .testimonial, .faq-item, .contact-info {
     transition: transform 0.6s ease, opacity 0.6s ease;
     opacity: 0;
     transform: translateY(30px); /* Starts from below */
